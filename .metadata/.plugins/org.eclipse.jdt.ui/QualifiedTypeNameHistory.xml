@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ScoreService"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ScoreServiceV1"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ClassServiceV1"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ClassServiceV3"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ClassServiceV5"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ClassServiceV6"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.naver.jiaezzan.service.ClassServiceV7"/>
 </qualifiedTypeNameHistroy>
