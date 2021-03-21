@@ -1,0 +1,16 @@
+package com.naver.jiaezzan.service;
+
+import java.util.Scanner;
+
+public class ScoreService {
+	
+	public void print() {
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.print("국어 : ");
+		int kor = scan.nextInt();
+		
+		System.out.println();
+		
+	}
+}
